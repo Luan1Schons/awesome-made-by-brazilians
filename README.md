@@ -909,6 +909,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/osantana/prettyconf?style=flat-square)
  [![license](https://img.shields.io/github/license/osantana/prettyconf.svg)](/LICENSE)
 
+- **[pydantic-brasil](https://github.com/Luan1Schons/pydantic-brasil)** by [Luan1Schons](https://github.com/Luan1Schons)  
+  Tipos de dados e validadores nativos Pydantic v2 para documentos, cadastros e instrumentos financeiros brasileiros  
+  ![Stars](https://img.shields.io/github/stars/Luan1Schons/pydantic-brasil?style=flat-square)
+ [![license](https://img.shields.io/github/license/Luan1Schons/pydantic-brasil.svg)](/LICENSE)
+
 - **[pynubank](https://github.com/andreroggeri/pynubank)** by [andreroggeri](https://github.com/andreroggeri)  
   Acesse seus extratos do Nubank pelo Python  
   ![Stars](https://img.shields.io/github/stars/andreroggeri/pynubank?style=flat-square)
